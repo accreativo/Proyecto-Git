@@ -1,1 +1,3 @@
-Este es un archivo muy especial, porque es el primero.
+Hola, este un mensaje sobre mí.
+
+Tengo 25 años y soy de Lima, Perú.
